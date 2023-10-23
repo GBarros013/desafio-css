@@ -1,22 +1,47 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Projeto da Página "Trilha de CSS - DIO"
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este é um exemplo de projeto de uma página da web que apresenta a "Trilha de CSS" da DIO (Digital Innovation One).
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## Tabela de Conteúdos
+- [Visão Geral](#visão-geral)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Visualizar](#como-visualizar)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+## Visão Geral
+Este projeto consiste em uma página da web que destaca a "Trilha de CSS" da DIO e convida os visitantes a se inscreverem no curso.
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## Funcionalidades
+A página HTML possui as seguintes funcionalidades:
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+- Apresentação do curso: Apresenta informações sobre a "Trilha de CSS" da DIO.
+- Descrição dos módulos: Fornece detalhes sobre os módulos do curso.
+- Chamada para ação: Inclui um botão "Quero me inscrever" que direciona os visitantes para a página de inscrição.
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## Tecnologias Utilizadas
+As seguintes tecnologias são utilizadas neste projeto:
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+- HTML: Para criar a estrutura da página.
+- CSS: Para estilizar a página e os elementos.
+- Imagens: Utilizadas para ilustrar o conteúdo.
+- JavaScript (opcional): Pode ser incorporado no futuro para adicionar funcionalidades interativas.
+
+## Como Visualizar
+Para visualizar a página HTML, siga estas instruções:
+
+1. Baixe os arquivos do projeto para o seu computador ou servidor.
+2. Abra o arquivo `index.html` em um navegador da web.
+3. Explore a página para conhecer a "Trilha de CSS" da DIO e clique no botão "Quero me inscrever" para se inscrever.
+
+## Contribuição
+Se você deseja contribuir para este projeto, siga as diretrizes abaixo:
+
+- Relate problemas ou sugira melhorias: Crie problemas detalhados descrevendo bugs ou propondo melhorias.
+- Envie solicitações de pull (pull requests): Se desejar contribuir com código, crie um fork deste repositório, faça as alterações desejadas em um novo branch e envie uma solicitação de pull para revisão.
+
+## Licença
+Este projeto não possui uma licença especificada. Certifique-se de respeitar os direitos autorais das imagens e outros recursos utilizados.
+
+---
